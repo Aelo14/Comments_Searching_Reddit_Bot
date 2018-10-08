@@ -1,4 +1,4 @@
-# HackRice8
+# Comment Searching Reddit Bot
 A Reddit bot that explores the user's age and comment patterns
 
 The file keyword.py will read through the bot's inbox, and reply to all the messages with the correct command.
